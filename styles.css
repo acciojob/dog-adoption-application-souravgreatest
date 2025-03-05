@@ -1,2 +1,6 @@
 
 /* Your CSS Code here. */
+.adoption-form{
+	display: flex;
+	flex-direction: column;
+}
